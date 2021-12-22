@@ -4,10 +4,11 @@
 Notes on machine learning techniques
 
 ## Sections
-* Section 1: Data Preprocessing
-    * [Data Preprocessing Tools](/section_1/data_preprocessing_tools.ipynb)
-    * [Data Preprocessing Template](/section_1/data_preprocessing_template.ipynb)
+* Unit 1: Data Preprocessing
+    * [Data Preprocessing Tools](/unit_1/data_preprocessing_tools.ipynb)
+    * [Data Preprocessing Template](/unit_1/data_preprocessing_template.ipynb)
 
-* Section 2: Simple Linear Regression
-    * [Simple Linear Regression](/section_2/simple_linear_regression.ipynb)
-    * [Multiple Linear Regression](/section_2/multiple_linear_regression.ipynb)
+* Unit 2: Simple Linear Regression
+    * [Simple Linear Regression](/unit_2/simple_linear_regression.ipynb)
+    * [Multiple Linear Regression](/unit_2/multiple_linear_regression.ipynb)
+    * [Polynomial Regression](/unit_2/polynomial_regression.ipynb)
