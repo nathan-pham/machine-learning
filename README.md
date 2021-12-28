@@ -12,3 +12,5 @@ Notes on machine learning techniques
     * [Simple Linear Regression](/unit_2/simple_linear_regression.ipynb)
     * [Multiple Linear Regression](/unit_2/multiple_linear_regression.ipynb)
     * [Polynomial Regression](/unit_2/polynomial_regression.ipynb)
+    * [Support Vector Regression](/unit_2/support_vector_regression.ipynb)
+    * [Decision Tree Regression](/unit_2/decision_tree_regression.ipynb)
