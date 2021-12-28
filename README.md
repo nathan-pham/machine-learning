@@ -14,3 +14,4 @@ Notes on machine learning techniques
     * [Polynomial Regression](/unit_2/polynomial_regression.ipynb)
     * [Support Vector Regression](/unit_2/support_vector_regression.ipynb)
     * [Decision Tree Regression](/unit_2/decision_tree_regression.ipynb)
+    * [Random Forest Regression](/unit_2/random_forest_regression.ipynb)
