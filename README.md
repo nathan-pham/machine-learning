@@ -15,3 +15,8 @@ Notes on machine learning techniques
     * [Support Vector Regression](/unit_2/support_vector_regression.ipynb)
     * [Decision Tree Regression](/unit_2/decision_tree_regression.ipynb)
     * [Random Forest Regression](/unit_2/random_forest_regression.ipynb)
+
+* Unit 3: Model Selection
+    * [External Link: Model Selection](https://drive.google.com/drive/folders/1O8vabaxga3ITjCWfwD79Xnyf8RavYuyk)
+    * [Model Selection](/unit_3/model_selection.ipynb)
+    * [Model Performance](/unit_3/model_performance.ipynb)
