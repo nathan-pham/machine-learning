@@ -19,3 +19,4 @@ Notes on machine learning techniques
 
 * Unit 3: Classification
     * [Logistic Regression](/unit_3/logistic_regression.ipynb)
+    * [K-Nearest Neighbors](/unit_3/k_nearest_neighbors.ipynb)
