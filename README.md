@@ -26,3 +26,6 @@ Notes on machine learning techniques
     * [Naive Bayes](/unit_3/naive_bayes.ipynb)
     * [Decision Tree Classification](/unit_3/decision_tree_classification.ipynb)
     * [Random Forest Classification](/unit_3/random_forest_classification.ipynb)
+
+* Unit 4: Clustering
+    * [K-Means Clustering](/unit_4/k_means_clustering.ipynb)
