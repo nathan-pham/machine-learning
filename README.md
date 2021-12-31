@@ -23,3 +23,6 @@ Notes on machine learning techniques
     * [Logistic Regression](/unit_3/logistic_regression.ipynb)
     * [K-Nearest Neighbors](/unit_3/k_nearest_neighbors.ipynb)
     * [Support Vector Machine](/unit_3/support_vector_machine.ipynb)
+    * [Naive Bayes](/unit_3/naive_bayes.ipynb)
+    * [Decision Tree Classification](/unit_3/decision_tree_classification.ipynb)
+    * [Random Forest Classification](/unit_3/random_forest_classification.ipynb)
