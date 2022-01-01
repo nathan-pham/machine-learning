@@ -29,3 +29,4 @@ Notes on machine learning techniques
 
 * Unit 4: Clustering
     * [K-Means Clustering](/unit_4/k_means_clustering.ipynb)
+    * [Hierarchical Clustering](/unit_4/hierarchical_clustering.ipynb)
