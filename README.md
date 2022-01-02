@@ -33,3 +33,6 @@ Notes on machine learning techniques
 
 * Unit 5: Association Rule Learning
     * [Apriori](/unit_5/apriori.ipynb)
+
+* Unit 6: Reinforcement Learning
+    * [Upper Confidence Bound](/unit_6/upper_confidence_bound.ipynb)
