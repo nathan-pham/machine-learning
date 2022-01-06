@@ -37,3 +37,6 @@ Notes on machine learning techniques
 * Unit 6: Reinforcement Learning
     * [Upper Confidence Bound](/unit_6/upper_confidence_bound.ipynb)
     * [Thompson Sampling](/unit_6/thompson_sampling.ipynb)
+
+* Unit 7: Natural Language Processing
+    * [Bag of Words](/unit_7/bag_of_words.ipynb)
