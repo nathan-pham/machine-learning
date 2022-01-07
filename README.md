@@ -40,3 +40,7 @@ Notes on machine learning techniques
 
 * Unit 7: Natural Language Processing
     * [Bag of Words](/unit_7/bag_of_words.ipynb)
+
+* Unit 8: Deep Learning
+    * [Artificial Neural Network](https://colab.research.google.com/drive/1aSbb8ZvSe3JmAW-ijIkny3IYmam7hOhT?usp=sharing)
+    * [Convolutional Neural Network]()
