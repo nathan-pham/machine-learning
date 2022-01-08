@@ -44,3 +44,6 @@ Notes on machine learning techniques
 * Unit 8: Deep Learning
     * [Artificial Neural Network](https://colab.research.google.com/drive/1aSbb8ZvSe3JmAW-ijIkny3IYmam7hOhT?usp=sharing)
     * [Convolutional Neural Network](https://colab.research.google.com/drive/1CrEcyak5hqhBeSHhqPO5nQljwwe8nsw-?usp=sharing)
+
+* Unit 9: Dimensionality Reduction
+    * [Principal Component Analysis](/unit_9/principal_component_analysis.ipynb)
