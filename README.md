@@ -47,3 +47,4 @@ Notes on machine learning techniques
 
 * Unit 9: Dimensionality Reduction
     * [Principal Component Analysis](/unit_9/principal_component_analysis.ipynb)
+    * [Linear Discriminant Analysis](/unit_9/linear_discriminant_analysis.ipynb)
