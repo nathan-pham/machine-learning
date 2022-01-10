@@ -49,3 +49,8 @@ Notes on machine learning techniques
     * [Principal Component Analysis](/unit_9/principal_component_analysis.ipynb)
     * [Linear Discriminant Analysis](/unit_9/linear_discriminant_analysis.ipynb)
     * [Kernel PCA](/unit_9/kernel_pca.ipynb)
+
+* Unit 10: Model Selection
+    * [K-Fold Cross Validation](/unit_10/kfold_cross_validation.ipynb)
+    * [Grid Search](/unit_10/grid_search.ipynb)
+    * [XGBoost](/unit_10/xg_boost.ipynb)
