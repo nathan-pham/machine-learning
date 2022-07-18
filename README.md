@@ -3,8 +3,6 @@
 # Machine Learning
 Notes on machine learning techniques
 
-// TODO: add a intuitive description of each technique (started from Unit 3)
-
 ## Sections
 * Unit 1: Data Preprocessing
     * [Data Preprocessing Tools](/unit_1/data_preprocessing_tools.ipynb)
